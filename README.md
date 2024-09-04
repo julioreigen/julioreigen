@@ -1,5 +1,5 @@
 # Júlio César
-Olá, tenho 21 anos e sou um estudante de Análise e Desenvolvimento de Sistemas cursando o segundo período. Tenho planos de entrar na área de desenvolvimento de softwares e no momento tenho conhecimentos com Python e estou estudando a fundo a linguagem Java, incluindo alguns de seus frameworks, como o Spring Boot.
+Olá, tenho 22 anos e sou um estudante de Análise e Desenvolvimento de Sistemas cursando o segundo período. Tenho planos de entrar na área de desenvolvimento de softwares e no momento tenho conhecimentos com Python e estou estudando a fundo a linguagem Java, incluindo alguns de seus frameworks, como o Spring Boot.
 
 ### Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/juliodebrito/)
